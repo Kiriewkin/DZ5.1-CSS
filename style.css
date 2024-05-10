@@ -5,6 +5,7 @@ body {
     height: 100vh;
     margin: 0;
 }
+
 .container {
     text-align: center;
     margin: 0 auto;
@@ -12,6 +13,7 @@ body {
     border: 1px solid black;
     padding: 20px;
 }
+
 .my-button {
     height: 40px;
     width: 300px;
@@ -22,6 +24,7 @@ body {
     border-radius: 5px;
     background-color:rgba(70, 163, 88, 1);
 }
+
 .social-button {
     display: inline-block;
     width: 300px;
@@ -35,12 +38,14 @@ body {
     text-decoration: none;
     border-radius: 5px;
 }
+
 form input {
     border: 1px solid rgba(234, 234, 234, 1);
     width: 300px;
     height: 40px;
     border-radius: 5px;
 }
+
 .login {
     font-size: 13px;
     font-weight: 400;
@@ -48,6 +53,7 @@ form input {
     text-align: left;
     color: rgba(61, 61, 61, 1);
 }
+
 .login2 {
     text-align: center;
 }
@@ -56,6 +62,7 @@ h2 a {
     text-decoration: none;
     color: rgba(61, 61, 61, 1);
 }
+
 .register {
     text-decoration: none;
     color: rgba(70, 163, 88, 1);
