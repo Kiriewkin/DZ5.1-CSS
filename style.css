@@ -58,14 +58,12 @@ form input {
     text-align: center;
 }
 
-h2 a {
+.lgn {
     text-decoration: none;
     color: rgba(61, 61, 61, 1);
 }
 
-.register {
+.rgstr {
     text-decoration: none;
     color: rgba(70, 163, 88, 1);
 }
-
-
